@@ -1,2 +1,34 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace GestaoAlojamentoLocal
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            GestaoAlojamentoService gestao = new GestaoAlojamentoService();
+
+            // Adicionar um cliente
+            Cliente cliente = gestao.AdicionarCliente(1, "João Silva", "joao@email.com", "123456789");
+
+            // Criar um alojamento para a reserva
+            Alojamento alojamento = new Alojamento
+            {
+                Id = 1,
+                Nome = "Casa no Centro",
+                Endereco = "Rua Principal, 123",
+                Capacidade = 4,
+                PrecoPorNoite = 75.00m
+            };
+
+            // Adicionar uma reserva para o cliente
+            DateTime dataInicio = new DateTime(2024, 12, 20);
+            DateTime dataFim = new DateTime(2024, 12, 25);
+            Reserva reserva = gestao.AdicionarReserva(1, dataInicio, dataFim, cliente, alojamento);
+
+            Console.WriteLine($"Cliente: {cliente.Nome} fez uma reserva no {alojamento.Nome}.");
+            Console.WriteLine($"Data de Início: {reserva.DataInicio.ToShortDateString()}, Data de Fim: {reserva.DataFim.ToShortDateString()}");
+            Console.WriteLine($"Valor Total: {reserva.ValorTotal:C}");
+        }
+    }
+}
