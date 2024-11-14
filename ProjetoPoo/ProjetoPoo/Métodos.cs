@@ -19,7 +19,7 @@ namespace GestaoAlojamentoLocal
                 Telefone = telefone
             };
 
-            clientes.Add(novoCliente);
+            clientes.Add(novoCliente); // Adiciona o cliente à lista de clientes
             return novoCliente;
         }
 
@@ -39,7 +39,7 @@ namespace GestaoAlojamentoLocal
                 ValorTotal = valorTotal
             };
 
-            reservas.Add(novaReserva);
+            reservas.Add(novaReserva); // Adiciona a reserva à lista de reservas
             return novaReserva;
         }
     }

@@ -6,7 +6,8 @@ namespace GestaoAlojamentoLocal
     {
         static void Main(string[] args)
         {
-            GestaoAlojamentoService gestao = new GestaoAlojamentoService();
+            // Utilizado para chamar métodos das classes e guardar dados em "gestão"
+            GestaoAlojamentoService gestao = new GestaoAlojamentoService(); 
 
             // Adicionar um cliente
             Cliente cliente = gestao.AdicionarCliente(1, "João Silva", "joao@email.com", "123456789");
