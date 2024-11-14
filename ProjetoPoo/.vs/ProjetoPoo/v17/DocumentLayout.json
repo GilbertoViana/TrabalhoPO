@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\m\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,31 +34,30 @@
               "RelativeToolTip": "ProjetoPoo\\M\u00E9todos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:53:11.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:53:11.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoPoo\\Program.cs",
               "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Program.cs",
               "RelativeToolTip": "ProjetoPoo\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:38:56.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Classes.cs",
               "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Classes.cs",
               "RelativeDocumentMoniker": "ProjetoPoo\\Classes.cs",
               "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Classes.cs",
               "RelativeToolTip": "ProjetoPoo\\Classes.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:16:58.947Z",
               "EditorCaption": ""

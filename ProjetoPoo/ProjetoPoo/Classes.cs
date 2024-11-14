@@ -3,6 +3,17 @@ using System.Collections.Generic;
 
 namespace GestaoAlojamentoLocal
 {
+    // Classe abstrata que representa uma pessoa com propriedades comuns
+    public abstract class Pessoa
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Email { get; set; }
+        public string Telefone { get; set; }
+
+        // Método abstrato para mostrar detalhes, a ser implementado nas classes derivadas
+        public abstract void MostrarDetalhes();
+    }
     public class Alojamento
     {
         public int Id { get; set; }
@@ -22,21 +33,24 @@ namespace GestaoAlojamentoLocal
         public decimal ValorTotal { get; set; }
     }
 
-    public class Cliente
+    public class Cliente : Pessoa
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public string Email { get; set; }
-        public string Telefone { get; set; }
+        // Implementação do método para mostrar detalhes do cliente
+        public override void MostrarDetalhes()
+        {
+            Console.WriteLine($"Cliente: {Nome}, Email: {Email}, Telefone: {Telefone}");
+        }
     }
 
-    public class Proprietario
+    public class Proprietario : Pessoa
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public string Email { get; set; }
-        public string Telefone { get; set; }
-        public string Morada { get; set; }
+        public string Morada { get; set; } // Morada do proprietário
+
+        // Implementação do método para mostrar detalhes do proprietário
+        public override void MostrarDetalhes()
+        {
+            Console.WriteLine($"Proprietário: {Nome}, Email: {Email}, Telefone: {Telefone}, Morada: {Morada}");
+        }
     }
 
     public class Pagamento
