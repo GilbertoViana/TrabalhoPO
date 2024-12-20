@@ -1,0 +1,17 @@
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.LoginForm.resources
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.sourcelink.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\bin\Debug\net8.0-windows\ProjetoPoo.exe
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\bin\Debug\net8.0-windows\ProjetoPoo.deps.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\bin\Debug\net8.0-windows\ProjetoPoo.runtimeconfig.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\bin\Debug\net8.0-windows\ProjetoPoo.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\bin\Debug\net8.0-windows\ProjetoPoo.pdb
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\refint\ProjetoPoo.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.pdb
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ProjetoPoo.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\ProjetoPoo\obj\Debug\net8.0-windows\ref\ProjetoPoo.dll

@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "DataInicio": "2024-12-20T01:04:33.3804841+00:00",
+    "DataFim": "2024-12-21T01:04:33.371",
+    "Cliente": {
+      "Id": 1,
+      "Nome": "João",
+      "Email": "joao@gmail.com",
+      "Password": "",
+      "Telefone": "912345678",
+      "Admin": false
+    },
+    "Alojamento": {
+      "Id": 1,
+      "Nome": "Casa da Serra",
+      "Endereco": "Rua da Serra, 123",
+      "Capacidade": 6,
+      "PrecoPorNoite": 120.50
+    },
+    "ValorTotal": 120.49998677275404200
+  },
+  {
+    "Id": 2,
+    "DataInicio": "2024-12-20T01:05:03.0765196+00:00",
+    "DataFim": "2024-12-21T01:05:03.063",
+    "Cliente": {
+      "Id": 2,
+      "Nome": "Maria",
+      "Email": "maria@gmail.com",
+      "Password": "",
+      "Telefone": "923456789",
+      "Admin": false
+    },
+    "Alojamento": {
+      "Id": 2,
+      "Nome": "Villa Mar",
+      "Endereco": "Avenida do Mar, 45",
+      "Capacidade": 8,
+      "PrecoPorNoite": 200.00
+    },
+    "ValorTotal": 199.99996870462960000
+  },
+  {
+    "Id": 3,
+    "DataInicio": "2024-12-20T01:57:30.9128488+00:00",
+    "DataFim": "2024-12-21T01:57:30.901",
+    "Cliente": {
+      "Id": 5,
+      "Nome": "Lucas",
+      "Email": "lucas@gmail.com",
+      "Password": "",
+      "Telefone": "956789012",
+      "Admin": false
+    },
+    "Alojamento": {
+      "Id": 5,
+      "Nome": "Chalé das Flores",
+      "Endereco": "Caminho das Flores, 77",
+      "Capacidade": 5,
+      "PrecoPorNoite": 150.00
+    },
+    "ValorTotal": 149.99997942916665000
+  }
+]

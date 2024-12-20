@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "DataInicio": "2024-12-18T22:19:59.9790016+00:00",
+    "DataFim": "2024-12-19T22:19:59.964",
+    "Cliente": {
+      "Id": 1,
+      "Nome": "João",
+      "Email": "joao@gmail.com",
+      "Password": "",
+      "Telefone": "912345678"
+    },
+    "Alojamento": {
+      "Id": 1,
+      "Nome": "Casa da Serra",
+      "Endereco": "Rua da Serra, 123",
+      "Capacidade": 6,
+      "PrecoPorNoite": 120.50
+    },
+    "ValorTotal": 120.4999790776295850
+  }
+]

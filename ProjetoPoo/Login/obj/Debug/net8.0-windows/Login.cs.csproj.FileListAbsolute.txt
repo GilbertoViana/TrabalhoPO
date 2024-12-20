@@ -1,0 +1,17 @@
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\bin\Debug\net8.0-windows\Login.cs.exe
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\bin\Debug\net8.0-windows\Login.cs.deps.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\bin\Debug\net8.0-windows\Login.cs.runtimeconfig.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\bin\Debug\net8.0-windows\Login.cs.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\bin\Debug\net8.0-windows\Login.cs.pdb
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.sourcelink.json
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\refint\Login.cs.dll
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.pdb
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\Login.cs.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\TrabalhoPO\ProjetoPoo\Login\obj\Debug\net8.0-windows\ref\Login.cs.dll

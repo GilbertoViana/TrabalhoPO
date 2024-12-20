@@ -3,16 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Utilizador\\source\\repos\\projetoForms\\projetoForms\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\m\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\m\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|c:\\users\\utilizador\\desktop\\trabalhopo\\projetopoo\\projetopoo\\m\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\m\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\projetopoo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E279243-D4DD-4B3D-86E9-4BCF954EB33E}|ProjetoPoo\\ProjetoPoo.csproj|solutionrelative:projetopoo\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +33,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\source\\repos\\projetoForms\\projetoForms\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\projetoForms\\projetoForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\source\\repos\\projetoForms\\projetoForms\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\projetoForms\\projetoForms\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:25:38.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProjetoPoo\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\LoginForm.cs",
+              "RelativeToolTip": "ProjetoPoo\\LoginForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T21:01:34.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "M\u00E9todos.cs",
               "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\M\u00E9todos.cs",
               "RelativeDocumentMoniker": "ProjetoPoo\\M\u00E9todos.cs",
               "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\M\u00E9todos.cs",
               "RelativeToolTip": "ProjetoPoo\\M\u00E9todos.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwB0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:53:11.607Z"
+              "WhenOpened": "2024-11-14T20:53:11.607Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoPoo\\Program.cs",
               "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Program.cs",
               "RelativeToolTip": "ProjetoPoo\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwA8AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:38:56.864Z"
+              "WhenOpened": "2024-11-14T20:38:56.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Classes.cs",
               "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Classes.cs",
               "RelativeDocumentMoniker": "ProjetoPoo\\Classes.cs",
               "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\Classes.cs",
               "RelativeToolTip": "ProjetoPoo\\Classes.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwAUAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T21:16:58.947Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ProjetoPoo\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Utilizador\\Desktop\\TrabalhoPO\\ProjetoPoo\\ProjetoPoo\\LoginForm.cs [Projeto]",
+              "RelativeToolTip": "ProjetoPoo\\LoginForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:57:22.392Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
